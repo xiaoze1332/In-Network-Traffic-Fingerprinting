@@ -1,0 +1,1 @@
+The Logical Regression Independent section is marked as comments by using ''' '''
